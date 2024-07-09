@@ -1,0 +1,29 @@
+
+.mainbox{
+    display: block;
+    background-color: rgb(157, 247, 217);
+    align-items: center;
+    justify-content: center;
+    margin: 100px auto;
+    width: 600px;
+    border-radius: 10px;
+}
+.mainbox img, .mainbox h2, .mainbox h4{
+    display: block;
+    align-items: center;
+    margin: 0px auto;
+}
+.mainbox img{
+    width: 300px;
+    height: 300px;
+}
+.mainbox h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 0px auto 20px;
+}
+.mainbox h4{
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
